@@ -3,7 +3,7 @@
 **Cíl:** Postavit první verzi webu, tedy několik propojených stránek v čistém HTML (zatím bez CSS).
 
 **Termín:** _doplní vyučující_
-
+ 
 **Verze:** `v1`
 
 ---
